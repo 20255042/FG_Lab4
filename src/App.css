@@ -1,0 +1,28 @@
+*{
+ 
+  margin: auto;
+  color: rgb(88, 31, 63);
+  text-align: center;
+  
+}
+section{
+  padding: 20px;
+  border: 1px solid black;
+  background-color: rgb(255, 238, 246);
+}
+h1{
+
+  margin-bottom: 50px;
+  
+}
+h3{
+   margin-bottom: 10px;
+}
+p{
+  margin-left: 40%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+hr{
+  color: black;
+}
